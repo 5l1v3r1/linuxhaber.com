@@ -15,5 +15,3 @@ dizinleri altında paylaşılmıştır.
 Sitenin tüm kaynak kodları GPL Lisansı V3 ile lisanslanarak dağıtıma sunulmuştur.
 
 Lisans'a sadık kalmak şartıyla özgürce kullanabilirsiniz.
-
-http://www.linuxhaber.com
