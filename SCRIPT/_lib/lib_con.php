@@ -9,5 +9,5 @@ $dbCon = array(
 
 //bir de class bir bağlantı oluşturalım
 $vt->hataGoster(true);
-$vt->baglan($dbCon) or die ('<center><img src="http://www.linuxhaber.com/_img/icon_hata.jpg"></center>');
+$vt->baglan($dbCon) or die ('<center><img src="http://www.linuxhaber.com/_img/dberror.png"></center>');
 ?>
