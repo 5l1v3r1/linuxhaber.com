@@ -33,7 +33,7 @@ define ('SEO','.html');
 //SECURTY
 //platform bağımsız açıklar için session güvencesi...
 // ==> | işaretinden sonrası her site için ayrı tanımlanmalıdır 
-define ('SES',md5(SITELINK.'|linuxhaber'));
+define ('SES',md5(SITELINK.'|ayri'));
 
 define ('L_EN','en');
 
@@ -42,6 +42,6 @@ $vt->kayitYolu('./_cache/');
 $bellekyolu = '_cache';
 
 //google api sabitleri
-define('GOOGLE_API_KEY', 'AIzaSyDqoPWSuI7fGriypS7OmcBYH2vf2L8bzKw');
+define('GOOGLE_API_KEY', 'apikeyhear');
 define('GOOGLE_ENDPOINT', 'https://www.googleapis.com/urlshortener/v1');
 ?>
