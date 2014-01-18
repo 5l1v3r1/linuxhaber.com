@@ -1,10 +1,13 @@
 LinuxHaber.com sitesi 
 
 1 Eylül 2011 tarihinde yayın hayatına başlamış 
+
 1 Ocak 2012 tarihinde ise yayın hayatına son vermiştir.
 
 Sitenin kaynak kodları 	/SCRIPT
+
 Sitenin veritabanı 		/SQL
+
 Sitenin takip listesi	/RSS
 
 dizinleri altında paylaşılmıştır.
