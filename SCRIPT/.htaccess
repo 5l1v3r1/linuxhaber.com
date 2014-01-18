@@ -1,0 +1,23 @@
+Options +FollowSymLinks
+RewriteEngine On
+RewriteBase /
+
+rewritecond %{http_host} ^linuxhaber.com [nc]
+rewriterule ^(.*)$ http://www.linuxhaber.com/$1 [r=301,nc]
+
+Rewriterule ^kayit-ol.php$ sayfalar.php?sayfa=kayit-ol [L]
+Rewriterule ^giris.php$ sayfalar.php?sayfa=giris [L]
+
+ErrorDocument 400 /hata.php 
+ErrorDocument 401 /hata.php 
+ErrorDocument 403 /hata.php 
+ErrorDocument 404 /hata.php 
+ErrorDocument 500 /hata.php 
+
+# ref li baðlantýlar için no spam
+RewriteCond %{THE_REQUEST} \?(ref=.*)?\ HTTP [NC]
+RewriteRule .? http://www.linuxhaber.com? [R=301,L]
+
+# ref li türevi baðlantýlar için no spam
+RewriteCond %{THE_REQUEST} \?(q=.*)?\ HTTP [NC]
+RewriteRule .? http://www.linuxhaber.com? [R=301,L]

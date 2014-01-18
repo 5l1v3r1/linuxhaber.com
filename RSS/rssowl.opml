@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml xmlns:rssowl="http://www.rssowl.org" version="1.1">
+  <head>
+    <title>RSSOwl Subscriptions</title>
+    <dateModified>Çar, 07 Ara 2011 02:17:14 EET</dateModified>
+  </head>
+  <body>
+    <outline text="My Feeds" rssowl:isSet="true" rssowl:id="6">
+      <outline text="İngilizce Linux Kaynakları" rssowl:isSet="false" rssowl:id="100">
+        <outline text="A Doctor`s Linux Blog" xmlUrl="http://feeds.feedburner.com/ADoctorsBlogAboutGnu/linux" rssowl:id="62733" />
+        <outline text="A LINUX Junky BLOG " xmlUrl="http://linux-junky.blogspot.com/feeds/posts/default" rssowl:id="94986" />
+        <outline text="A Programmer's Life" xmlUrl="http://aprogrammerslife.info/feed" rssowl:id="83623" />
+        <outline text="Aaron Toponce" xmlUrl="http://pthree.org/feed" rssowl:id="83688" />
+        <outline text="Ainer.org/News" xmlUrl="http://www.ainer.org/news/feed" rssowl:id="44494" />
+        <outline text="akgul.bilkent.edu.tr" xmlUrl="http://xblog.akgul.web.tr/?feed=rss2" rssowl:id="71245" />
+        <outline text="All about Linux" xmlUrl="http://linuxhelp.blogspot.com/feeds/posts/default" rssowl:id="71971" />
+        <outline text="An alien's viewpoint" xmlUrl="http://temporaryland.wordpress.com/feed" rssowl:id="86946" />
+        <outline text="Anarchy != Chaos" xmlUrl="http://anarchic-order.blogspot.com/feeds/posts/default" rssowl:id="93577" />
+        <outline text="Apollo Connecting the World" xmlUrl="http://apollozhao.wordpress.com/feed" rssowl:id="86736" />
+        <outline text="apt-get install debian-wizard" xmlUrl="http://feeds.feedburner.com/RaphaelHertzogCom" rssowl:id="77871" />
+        <outline text="Are We There Yet" xmlUrl="http://martijnverburg.blogspot.com/feeds/posts/default" rssowl:id="94749" />
+        <outline text="Ars Technica" xmlUrl="http://feeds.arstechnica.com/arstechnica/open-source" rssowl:id="44229" />
+        <outline text="Articles | The GNULinux Community Portal" xmlUrl="http://gnulinux.in" rssowl:id="161278" />
+        <outline text="BASH Cures Cancer" xmlUrl="http://feeds.feedburner.com/BashCuresCancer" rssowl:id="160299" />
+        <outline text="Catherine: pyOraGeek" xmlUrl="http://catherinedevlin.blogspot.com/feeds/posts/default" rssowl:id="82635" />
+        <outline text="Composite Code" xmlUrl="http://compositecode.com/feed" rssowl:id="86497" />
+        <outline text="Computer Tips and Help at SpotHT" xmlUrl="http://www.spotht.com/feeds/posts/default/-/Linux%20and%20Unix" rssowl:id="48000" />
+        <outline text="Computerworld" xmlUrl="http://rss.computerworld.com/computerworld/s/feed/topic/122" rssowl:id="44214" />
+        <outline text="cyberciti.biz - FAQ Linux" xmlUrl="http://www.cyberciti.biz/faq/feed/?feedburner=false&amp;k=true" rssowl:id="74539" />
+        <outline text="Das U-Blog by Prashanth" xmlUrl="http://dasublogbyprashanth.blogspot.com/feeds/posts/default" rssowl:id="93282" />
+        <outline text="Debian Admin" xmlUrl="http://www.debianadmin.com/feed" rssowl:id="91839" />
+        <outline text="Debian Tutorials" xmlUrl="http://www.debiantutorials.com/feed" rssowl:id="161390" />
+        <outline text="Debian/Ubuntu Tips &amp; Tricks" xmlUrl="http://www.debuntu.org/feed/atom" rssowl:id="35931" />
+        <outline text="DesktopLinux.com" xmlUrl="http://www.desktoplinux.com/backend/headlines.rss" rssowl:id="160378" />
+        <outline text="dhee-techguide » linux" xmlUrl="http://dheetechguide.wordpress.com/tag/linux-2/feed" rssowl:id="85301" />
+        <outline text="Digitized Thoughts" xmlUrl="http://digitizedthoughts.wordpress.com/category/technology/software/operating-system/linux/feed/" rssowl:id="85790" />
+        <outline text="Digitizor" xmlUrl="http://feeds.feedburner.com/digitizor" rssowl:id="141" />
+        <outline text="Don't Surf in the Nude!" xmlUrl="http://feeds.feedburner.com/DontSurfInTheNude" rssowl:id="80249" />
+        <outline text="Doombringer's adventures" xmlUrl="http://enginmanap.blogspot.com/feeds/posts/default" rssowl:id="79830" />
+        <outline text="dralnuX" xmlUrl="http://www.dralnux.com/feed" rssowl:id="161480" />
+        <outline text="DT's Guide to Life and Linux » Linux" xmlUrl="http://dangertux.wordpress.com/tag/linux/feed" rssowl:id="85684" />
+        <outline text="Dwijay's Blog" xmlUrl="http://dwijaybane.wordpress.com/feed" rssowl:id="85916" />
+        <outline text="Eleven is Louder" xmlUrl="http://elevenislouder.blogspot.com/feeds/posts/default" rssowl:id="80344" />
+        <outline text="Embedded Linux » Linux" xmlUrl="http://embeddedlinuz.wordpress.com/category/linux/feed" rssowl:id="85397" />
+        <outline text="Events" xmlUrl="http://static.fsf.org/fsforg/rss/events.xml" rssowl:id="42797" />
+        <outline text="FAQforge" xmlUrl="http://www.faqforge.com/feed" rssowl:id="87707" />
+        <outline text="FLOSS for Science" xmlUrl="http://feeds.feedburner.com/FlossForScience" rssowl:id="48402" />
+        <outline text="FOSS Force" xmlUrl="http://fossforce.com/feed" rssowl:id="46240" />
+        <outline text="fossline" xmlUrl="http://kdubois.net/?feed=rss2" rssowl:id="82101" />
+        <outline text="fossline ubuntu" xmlUrl="http://kdubois.net/?feed=rss2&amp;cat=12" rssowl:id="82064" />
+        <outline text="Freed Up Thoughts" xmlUrl="http://freedupthoughts.wordpress.com/feed" rssowl:id="89675" />
+        <outline text="freshmeat.net Projects tagged with Linux" xmlUrl="http://freshmeat.net/tags/linux?format=atom" rssowl:id="127706" />
+        <outline text="fsdaily.com " xmlUrl="http://www.fsdaily.com/feed/published/All" rssowl:id="51470" />
+        <outline text="FSF News" xmlUrl="http://static.fsf.org/fsforg/rss/news.xml" rssowl:id="42763" />
+        <outline text="Full Circle Magazine" xmlUrl="http://fullcirclemagazine.org/feed" rssowl:id="171" />
+        <outline text="FZ Blogs" xmlUrl="http://ileriseviye.org/blog/feed" rssowl:id="100009" />
+        <outline text="Gameolith" xmlUrl="http://www.gameolith.com/news/feed" rssowl:id="41290" />
+        <outline text="GetDeb Package Updates" xmlUrl="http://www.getdeb.net/updates/ubuntu/10.10/?format=xml" rssowl:id="140" />
+        <outline text="GHABUNTU" xmlUrl="http://www.ghabuntu.com/feeds/posts/default" rssowl:id="77511" />
+        <outline text="Gofurix's Blog" xmlUrl="http://gofurixlinux.blogspot.com/feeds/posts/default" rssowl:id="94908" />
+        <outline text="Govath" xmlUrl="http://govath.wordpress.com/feed" rssowl:id="86714" />
+        <outline text="hajimu.org linux" xmlUrl="http://hajimu.org/?feed=rss2&amp;#038;tag=linux" rssowl:id="156235" />
+        <outline text="hajimu.org mint" xmlUrl="http://hajimu.org/?feed=rss2&amp;#038;tag=mint" rssowl:id="156119" />
+        <outline text="Handle With Linux - Published news" xmlUrl="http://handlewithlinux.com/feed/published/All" rssowl:id="160625" />
+        <outline text="Headlines RSS feed | Desura" xmlUrl="http://rss.desura.com/headlines/feed/rss.xml" rssowl:id="104898" />
+        <outline text="Headlines RSS mod feed | Desura" xmlUrl="http://rss.desura.com/mods/headlines/feed/rss.xml" rssowl:id="104932" />
+        <outline text="How-To Geek » Linux" xmlUrl="http://www.howtogeek.com/tag/linux/feed" rssowl:id="158" />
+        <outline text="HowtoForge" xmlUrl="http://www.howtoforge.com/feed.rss" rssowl:id="45586" />
+        <outline text="HowtoForge - Desktop" xmlUrl="http://www.howtoforge.com/rss/desktop.rss" rssowl:id="45661" />
+        <outline text="HowtoForge - Linux" xmlUrl="http://www.howtoforge.com/rss/linux.rss" rssowl:id="45654" />
+        <outline text="HowtoForge - Ubuntu" xmlUrl="http://www.howtoforge.com/rss/linux/ubuntu.rss" rssowl:id="48963" />
+        <outline text="HowtoMatrix" xmlUrl="http://howtomatrix.com/feed" rssowl:id="161762" />
+        <outline text="http://bl-log.blogspot.com/" xmlUrl="http://bl-log.blogspot.com" rssowl:id="94172" />
+        <outline text="http://hawknotes.blogspot.com/feeds/posts/default?alt=rss" xmlUrl="hawknotes" rssowl:id="94007" />
+        <outline text="iheartubuntu" xmlUrl="http://www.iheartubuntu.com/feeds/posts/default" rssowl:id="82156" />
+        <outline text="iloveubuntu / Ubuntu blog" xmlUrl="http://iloveubuntu.net/rss.xml" rssowl:id="51727" />
+        <outline text="informationagenation.wordpress.com" xmlUrl="http://informationagenation.wordpress.com/feed" rssowl:id="85994" />
+        <outline text="itec soft" xmlUrl="http://www.itecsoftware.com" rssowl:id="162004" />
+        <outline text="JJinuxLand" xmlUrl="http://jjinux.blogspot.com/feeds/posts/default" rssowl:id="94497" />
+        <outline text="jonobacon@home" xmlUrl="http://www.jonobacon.org/feed" rssowl:id="83745" />
+        <outline text="Joys of Programming » Linux" xmlUrl="http://joysofprogramming.com/category/linux/feed" rssowl:id="47932" />
+        <outline text="Just Jeremy" xmlUrl="http://jeremy.bicha.net/feed" rssowl:id="75479" />
+        <outline text="Justin Stories" xmlUrl="http://justinstories.wordpress.com/feed" rssowl:id="78085" />
+        <outline text="Kurinchi Blogger Scribbles ..." xmlUrl="http://kurinchilamp.kurinchilion.com/feed" rssowl:id="160849" />
+        <outline text="LFS News" xmlUrl="http://www.linuxfromscratch.org/news.html" rssowl:id="162149" />
+        <outline text="LGDB - New Content" xmlUrl="http://www.lgdb.org/rss.xml" rssowl:id="76379" />
+        <outline text="Liberian Geek " xmlUrl="http://feeds.feedburner.com/liberiangeek" rssowl:id="35717" />
+        <outline text="libre-software.net" xmlUrl="http://www.libre-software.net/rss.xml" rssowl:id="35923" />
+        <outline text="Lifehacker: linux" xmlUrl="http://lifehacker.com/tag/linux/index.xml" rssowl:id="164" />
+        <outline text="Lightweight Linux" xmlUrl="http://lightlinux.blogspot.com/feeds/posts/default" rssowl:id="160719" />
+        <outline text="Linux * Screw" xmlUrl="http://www.linuxscrew.com/feed" rssowl:id="160232" />
+        <outline text="Linux and Eye-Fi Hacking" xmlUrl="http://dave-hansen.blogspot.com/feeds/posts/default" rssowl:id="93471" />
+        <outline text="Linux And Friends" xmlUrl="http://linuxandfriends.com/feed" rssowl:id="161816" />
+        <outline text="Linux and Life" xmlUrl="http://www.linuxandlife.com/feeds/posts/default" rssowl:id="107908" />
+        <outline text="Linux and Life" xmlUrl="http://www.linuxandlife.com/feeds/posts/default" rssowl:id="143407" />
+        <outline text="Linux and Me" xmlUrl="http://hungrypenguin.net/linuxandme/feed" rssowl:id="43310" />
+        <outline text="Linux and Microcontroller Tips" xmlUrl="http://feeds.feedburner.com/shibuvarkala" rssowl:id="93950" />
+        <outline text="Linux and Open Source - RSS Feed" xmlUrl="http://www.eweek.com/rss-feeds-34.xml" rssowl:id="43355" />
+        <outline text="Linux App Finder - All Applications" xmlUrl="http://feeds.feedburner.com/LinuxAppFinder-AllApplications" rssowl:id="161" />
+        <outline text="Linux For Everyone" xmlUrl="http://linux4every1.blogspot.com/feeds/posts/default" rssowl:id="95195" />
+        <outline text="Linux Gaming News" xmlUrl="http://linuxgamingnews.org/feed" rssowl:id="43807" />
+        <outline text="Linux Grandma" xmlUrl="http://linuxgrandma.blogspot.com/feeds/posts/default" rssowl:id="82469" />
+        <outline text="Linux Home Networking" xmlUrl="http://www.linuxhomenetworking.com/index.php?format=feed&amp;type=rss" rssowl:id="162137" />
+        <outline text="Linux Hybrid Graphics" xmlUrl="http://linux-hybrid-graphics.blogspot.com/feeds/posts/default" rssowl:id="92639" />
+        <outline text="Linux in Exile" xmlUrl="http://linuxinexile.blogspot.com/feeds/posts/default" rssowl:id="93524" />
+        <outline text="Linux Journal" xmlUrl="http://www.linuxjournal.com/node/feed" rssowl:id="173" />
+        <outline text="Linux Journal News" xmlUrl="http://feeds.feedburner.com/LinuxJournal-BreakingNews" rssowl:id="42828" />
+        <outline text="Linux Library" xmlUrl="http://linuxlibrary.org/index.php/feed" rssowl:id="79901" />
+        <outline text="Linux Line" xmlUrl="http://feeds.pcworld.com/pcworld/businesscenter/linuxline" rssowl:id="44077" />
+        <outline text="Linux Magazine" xmlUrl="http://feeds.feedburner.com/LinuxMagazine" rssowl:id="119" />
+        <outline text="Linux Magazine Full Feed" xmlUrl="http://www.linux-magazine.com/rss/feed/lmi_full" rssowl:id="59404" />
+        <outline text="Linux notes from DarkDuck" xmlUrl="http://feeds.feedburner.com/LinuxNotesFromDarkduck" rssowl:id="81138" />
+        <outline text="Linux Poison" xmlUrl="http://linuxpoison.blogspot.com/feeds/posts/default" rssowl:id="59825" />
+        <outline text="Linux Superuser" xmlUrl="http://linuxsuperuser07.blogspot.com/feeds/posts/default" rssowl:id="161167" />
+        <outline text="Linux Systems" xmlUrl="http://antecblue.wordpress.com" rssowl:id="159728" />
+        <outline text="Linux Tipps, Fixes &amp; More" xmlUrl="http://linux-tipps.blogspot.com/feeds/posts/default" rssowl:id="94009" />
+        <outline text="Linux Tips" xmlUrl="http://reviewhubs.com/linuxtips/feed" rssowl:id="128889" />
+        <outline text="Linux Tips" xmlUrl="http://feeds.feedburner.com/LinuxTips" rssowl:id="150338" />
+        <outline text="Linux Training For The Desktop and Server" xmlUrl="http://beginlinux.com" rssowl:id="161280" />
+        <outline text="Linux, BSD, and everything else..." xmlUrl="http://all-things-linux.blogspot.com/feeds/posts/default" rssowl:id="92748" />
+        <outline text="linux-adm.de" xmlUrl="http://linux-adm.de/feed" rssowl:id="160931" />
+        <outline text="linuX-gamers.net" xmlUrl="http://www.linux-gamers.net/?feed=rss2" rssowl:id="160333" />
+        <outline text="Linux.com - Content Feed" xmlUrl="http://www.linux.com/rss/feeds.php" rssowl:id="42561" />
+        <outline text="Linuxaria" xmlUrl="http://linuxaria.com/feed?lang=en" rssowl:id="45502" />
+        <outline text="LinuxBSDos.com" xmlUrl="http://feeds2.feedburner.com/linuxbsdos" rssowl:id="62389" />
+        <outline text="LinuxCareer.com" xmlUrl="http://feeds.feedburner.com/Linuxcareercom-ItCareerResources" rssowl:id="77305" />
+        <outline text="Linuxers" xmlUrl="http://linuxers.org" rssowl:id="161935" />
+        <outline text="LinuxGames" xmlUrl="http://linuxgames.com/feed" rssowl:id="42460" />
+        <outline text="LinuxHelp.net" xmlUrl="http://www.linuxhelp.net/guides" rssowl:id="162133" />
+        <outline text="LinuxHelp.net" xmlUrl="http://www.linuxhelp.net" rssowl:id="162135" />
+        <outline text="LinuxHub" xmlUrl="http://linuxhub.net/feed" rssowl:id="161856" />
+        <outline text="LinuxNov.com" xmlUrl="http://feeds.feedburner.com/Linuxnov" rssowl:id="128696" />
+        <outline text="LinuxPlanet" xmlUrl="http://www.linuxplanet.com/rss" rssowl:id="159" />
+        <outline text="LinuxTechCrunch" xmlUrl="http://linux-software-news-tutorials.blogspot.com/feeds/posts/default" rssowl:id="162002" />
+        <outline text="LinuxTechCrunch " xmlUrl="http://linux-software-news-tutorials.blogspot.com/feeds/posts/default" rssowl:id="94168" />
+        <outline text="LinuxInsider" xmlUrl="http://www.linuxinsider.com/perl/syndication/rssfull.pl" rssowl:id="42524" />
+        <outline text="LinuxInsight" xmlUrl="http://feeds.linuxinsight.com/linuxportal" rssowl:id="43143" />
+        <outline text="lkubuntu" xmlUrl="http://lkubuntu.wordpress.com/feed" rssowl:id="62471" />
+        <outline text="LWN.net" xmlUrl="http://lwn.net/headlines/newrss" rssowl:id="43278" />
+        <outline text="LINUX For You Magazine" xmlUrl="http://feeds2.feedburner.com/LinuxForYou" rssowl:id="45849" />
+        <outline text="LINUX ON DESKTOP" xmlUrl="http://www.linuxondesktop.in/feeds/posts/default" rssowl:id="160419" />
+        <outline text="Make Tech Easier" xmlUrl="http://maketecheasier.com/feed" rssowl:id="161607" />
+        <outline text="Make Tech EasierLinux -" xmlUrl="http://feeds.feedburner.com/MTELinux" rssowl:id="57362" />
+        <outline text="Make Tech EasierLinux -" xmlUrl="http://feeds.feedburner.com/MTELinux" rssowl:id="79899" />
+        <outline text="MakeUseOf » Linux Apps &amp; Tips" xmlUrl="http://www.makeuseof.com/service/linux/feed" rssowl:id="76207" />
+        <outline text="Matthew Garrett" xmlUrl="http://mjg59.dreamwidth.org/data/rss" rssowl:id="89868" />
+        <outline text="Micah Carric Linux Post" xmlUrl="http://www.micahcarrick.com/rss/linux" rssowl:id="78083" />
+        <outline text="Michael Paquier" xmlUrl="http://michael.otacoo.com/feed" rssowl:id="73113" />
+        <outline text="Michael Terry's Log" xmlUrl="http://mterry.name/log/feed" rssowl:id="83820" />
+        <outline text="MisfitGeek  (Joe Stagner) » Linux" xmlUrl="http://www.misfitgeek.com/category/linux/feed" rssowl:id="89424" />
+        <outline text="MPSHouse" xmlUrl="http://www.mpshouse.com/?feed=rss2&amp;#038;cat=31" rssowl:id="89766" />
+        <outline text="My Linux Life" xmlUrl="http://muhdzamri.blogspot.com/feeds/posts/default" rssowl:id="94005" />
+        <outline text="MY LINUX TODAY" xmlUrl="http://mylinuxtoday.blogspot.com/feeds/posts/default" rssowl:id="94370" />
+        <outline text="My Technology Guide" xmlUrl="http://feeds.feedburner.com/MyTechnologyGuide" rssowl:id="43474" />
+        <outline text="My tryst with Linux" xmlUrl="http://kagashe.blogspot.com/feeds/posts/default" rssowl:id="95093" />
+        <outline text="mycottonsilk" xmlUrl="http://mycottonsilk.wordpress.com/feed" rssowl:id="87147" />
+        <outline text="n00bs on Ubuntu" xmlUrl="http://feeds.feedburner.com/N00bsOnUbuntu" rssowl:id="80027" />
+        <outline text="Network World on Software" xmlUrl="http://www.networkworld.com/rss/software.xml" rssowl:id="44054" />
+        <outline text="Niktips's Blog" xmlUrl="http://niktips.wordpress.com/feed" rssowl:id="86828" />
+        <outline text="NixCraft" xmlUrl="http://feeds.cyberciti.biz/Nixcraft-LinuxFreebsdSolarisTipsTricks" rssowl:id="75875" />
+        <outline text="Nocturnal Slacker v1.0" xmlUrl="http://noctslackv1.wordpress.com/feed" rssowl:id="161282" />
+        <outline text="Noobs on Ubuntu and Windows" xmlUrl="http://www.noobslab.com/feeds/posts/default" rssowl:id="165207" />
+        <outline text="Off the Beat: Bruce Byfield's Blog" xmlUrl="http://www.linux-magazine.com/rss/feed/off_the_beat" rssowl:id="59448" />
+        <outline text="Omg! Ubuntu!" xmlUrl="http://feeds.feedburner.com/d0od" rssowl:id="130" />
+        <outline text="Open Source Living" xmlUrl="http://osliving.com/feed" rssowl:id="102" />
+        <outline text="Open Source Subnet bloggers RSS" xmlUrl="http://www.networkworld.com/community/blogs/opensource/feed" rssowl:id="43867" />
+        <outline text="opensource.com" xmlUrl="http://opensource.com/feed" rssowl:id="83503" />
+        <outline text="OSDir.com" xmlUrl="http://osdir.com/rss.php" rssowl:id="160406" />
+        <outline text="OSNews" xmlUrl="http://www.osnews.com/files/recent.xml" rssowl:id="108" />
+        <outline text="OSOR.eu " xmlUrl="http://www.osor.eu/breaking-news/RSS" rssowl:id="49752" />
+        <outline text="PCLinuxOS" xmlUrl="http://www.bekozap.com/?feed=rss2" rssowl:id="156" />
+        <outline text="Penguin Inside" xmlUrl="http://penguininside.blogspot.com/feeds/posts/default" rssowl:id="74373" />
+        <outline text="Penguspy" xmlUrl="http://feeds.feedburner.com/Penguspy" rssowl:id="76311" />
+        <outline text="Phirinux Linux Blog" xmlUrl="http://phirinux.blogspot.com/feeds/posts/default" rssowl:id="163" />
+        <outline text="Phoronix" xmlUrl="http://feeds.feedburner.com/Phoronix" rssowl:id="142" />
+        <outline text="Planet Larry" xmlUrl="http://feeds.feedburner.com/planet_larry" rssowl:id="160598" />
+        <outline text="Planet Pardus" xmlUrl="http://planet.pardus.org.tr/rss20.xml" rssowl:id="103360" />
+        <outline text="Planet Ubuntu Women" xmlUrl="http://planet.ubuntu-women.org" rssowl:id="71581" />
+        <outline text="PlayDeb Package Updates" xmlUrl="http://www.playdeb.net/updates/ubuntu/10.10/?format=xml" rssowl:id="139" />
+        <outline text="pleia2's blog" xmlUrl="http://princessleia.com/journal/?feed=rss2&amp;#038;cat=2" rssowl:id="82150" />
+        <outline text="Productivity Sauce" xmlUrl="http://www.linux-magazine.com/rss/feed/productivity_sauce" rssowl:id="59436" />
+        <outline text="Random thoughts and experiences with Linux" xmlUrl="http://handypenguin.blogspot.com" rssowl:id="95091" />
+        <outline text="Robert Pogson" xmlUrl="http://mrpogson.com/feed" rssowl:id="128878" />
+        <outline text="Rohit Sawarkar's Blog" xmlUrl="http://sawarkarrohit28.wordpress.com/feed" rssowl:id="86632" />
+        <outline text="RootPrompt -- Nothing but Unix" xmlUrl="http://rootprompt.org" rssowl:id="162147" />
+        <outline text="Run like Hell" xmlUrl="http://dietrichschroff.blogspot.com/feeds/posts/default/-/Linux" rssowl:id="94628" />
+        <outline text="SERVER~TECHS" xmlUrl="http://servert.wordpress.com/feed" rssowl:id="85718" />
+        <outline text="ShainMiley.com" xmlUrl="http://www.shainmiley.com/wordpress/?feed=rss2" rssowl:id="165306" />
+        <outline text="Shinnok's Rants" xmlUrl="http://shinnok.com/rants/feed" rssowl:id="86280" />
+        <outline text="ShuffleOS - Open Source/Linux Blog!" xmlUrl="http://shuffleos.com" rssowl:id="164904" />
+        <outline text="Software" xmlUrl="http://www.linux.com/news/software?format=feed&amp;type=rss" rssowl:id="42492" />
+        <outline text="sola's blog » linux" xmlUrl="http://soltesza.wordpress.com/category/linux/feed" rssowl:id="61606" />
+        <outline text="Sudobits Blog | Open Source" xmlUrl="http://feeds.feedburner.com/sudobits" rssowl:id="160924" />
+        <outline text="Tech Drive-in" xmlUrl="http://feeds.feedburner.com/techdrivein" rssowl:id="41881" />
+        <outline text="Tech Laze» Linux" xmlUrl="http://techlaze.com/category/linux/feed" rssowl:id="89235" />
+        <outline text="Tech's you need !!!!!" xmlUrl="http://enlook.wordpress.com/feed" rssowl:id="87351" />
+        <outline text="Techell.neT » linux" xmlUrl="http://techell.net/category/linux/feed" rssowl:id="86437" />
+        <outline text="Technology ebook » Linux" xmlUrl="http://techebook.wordpress.com/category/linux/feed" rssowl:id="85164" />
+        <outline text="TechnologyTales.com » Linux" xmlUrl="http://technologytales.com/tag/linux/feed" rssowl:id="155616" />
+        <outline text="Techrights » GNU/Linux" xmlUrl="http://techrights.org/category/gnulinux/feed" rssowl:id="63533" />
+        <outline text="Techrights » Ubuntu" xmlUrl="http://techrights.org/category/ubuntu/feed" rssowl:id="61463" />
+        <outline text="TechSource" xmlUrl="http://www.junauza.com/feeds/posts/default/-/linux" rssowl:id="81265" />
+        <outline text="TechSource Linux Games" xmlUrl="http://www.junauza.com/feeds/posts/default/-/linux%20games" rssowl:id="81402" />
+        <outline text="Techzim » Open Source" xmlUrl="http://www.techzim.co.zw/category/open-source/feed" rssowl:id="75204" />
+        <outline text="Teky's Treasure" xmlUrl="http://tekytech.wordpress.com/feed" rssowl:id="87411" />
+        <outline text="The   PC  Chronicle" xmlUrl="http://pchronicle.wordpress.com/feed" rssowl:id="84964" />
+        <outline text="The Blog of Helios" xmlUrl="http://linuxlock.blogspot.com/feeds/posts/default" rssowl:id="93709" />
+        <outline text="The Email Mafia Blog" xmlUrl="http://emailmafia.net/feed" rssowl:id="46802" />
+        <outline text="The Geek Stuff" xmlUrl="http://feeds.feedburner.com/TheGeekStuff" rssowl:id="83461" />
+        <outline text="The Grand Fallacy » Linux" xmlUrl="http://paul.frields.org/category/linux/feed" rssowl:id="77323" />
+        <outline text="The Linux Blog .net" xmlUrl="http://thelinuxblog.net/feed" rssowl:id="77979" />
+        <outline text="The Linux Experience" xmlUrl="http://cristalinux.blogspot.com/feeds/posts/default" rssowl:id="72118" />
+        <outline text="The Invisible Things Lab's blog" xmlUrl="http://theinvisiblethings.blogspot.com/feeds/posts/default" rssowl:id="93081" />
+        <outline text="This Week In Linux" xmlUrl="http://feeds.feedburner.com/thisweekinlinuxnew" rssowl:id="44174" />
+        <outline text="Thoughts on Technology" xmlUrl="http://jeffhoogland.blogspot.com/feeds/posts/default?alt=rss" rssowl:id="77652" />
+        <outline text="Tombuntu" xmlUrl="http://tombuntu.com/index.php/feed" rssowl:id="75443" />
+        <outline text="Travelling Linux" xmlUrl="http://rumytaulu.wordpress.com/feed" rssowl:id="86626" />
+        <outline text="TuxArena" xmlUrl="http://www.tuxarena.com/feed" rssowl:id="51375" />
+        <outline text="TuxArena Blog" xmlUrl="http://tuxarena.blogspot.com/feeds/posts/default" rssowl:id="80792" />
+        <outline text="TuxRadar -" xmlUrl="http://www.tuxradar.com/frontpage/feed" rssowl:id="42397" />
+        <outline text="Ubuntu - Geek - News, all articles" xmlUrl="http://paper.li/UbuntuGeekNews/1308446933/~list" rssowl:id="62385" />
+        <outline text="Ubuntu Blog" xmlUrl="http://linuxtuxer.blogspot.com/feeds/posts/default" rssowl:id="129" />
+        <outline text="Ubuntu Buzz !" xmlUrl="http://www.ubuntubuzz.com/feeds/posts/default" rssowl:id="165005" />
+        <outline text="Ubuntu Corner" xmlUrl="http://www.ubuntu-corner.com/feed" rssowl:id="48179" />
+        <outline text="Ubuntu Forecast" xmlUrl="http://www.ubuntuforecast.com/feed" rssowl:id="159963" />
+        <outline text="Ubuntu Geek" xmlUrl="http://www.ubuntugeek.com/feed" rssowl:id="160105" />
+        <outline text="Ubuntu Genius's Blog" xmlUrl="http://ubuntugenius.wordpress.com/feed" rssowl:id="40511" />
+        <outline text="Ubuntu Linux Help" xmlUrl="http://feeds.feedburner.com/UbuntuLinuxHelp" rssowl:id="128275" />
+        <outline text="Ubuntu Linux Tips &amp; Tricks" xmlUrl="http://ubuntulinuxtipstricks.blogspot.com/feeds/posts/default" rssowl:id="92293" />
+        <outline text="Ubuntu Living" xmlUrl="http://feeds.feedburner.com/UbuntuLiving?format=xml" rssowl:id="52463" />
+        <outline text="Ubuntu Living" xmlUrl="http://ubuntuliving.blogspot.com/feeds/posts/default" rssowl:id="59754" />
+        <outline text="Ubuntu Living" xmlUrl="http://ubuntuliving.blogspot.com/feeds/posts/default" rssowl:id="160404" />
+        <outline text="Ubuntu Manual" xmlUrl="http://feeds.launchpad.net/ubuntu-manual/announcements.atom" rssowl:id="35679" />
+        <outline text="Ubuntu Manual" xmlUrl="http://feeds.ubuntumanual.org/ubuntumanual" rssowl:id="53194" />
+        <outline text="Ubuntu News" xmlUrl="http://ubuntu-news.org/feed" rssowl:id="35578" />
+        <outline text="Ubuntu Sharing" xmlUrl="http://ubuntuguide.net/feed" rssowl:id="53314" />
+        <outline text="Ubuntu Vibes" xmlUrl="http://www.ubuntuvibes.com/feeds/posts/default" rssowl:id="39832" />
+        <outline text="Ubuntu Weblogs" xmlUrl="http://ubuntuweblogs.org/rss20.xml" rssowl:id="71289" />
+        <outline text="Ubuntu-News" xmlUrl="http://www.ubuntu-news.net/feed" rssowl:id="35782" />
+        <outline text="ubuntugeek" xmlUrl="http://feeds.feedburner.com/UbuntuGeek" rssowl:id="52352" />
+        <outline text="Ubuntuka" xmlUrl="http://www.ubuntuka.com/feed" rssowl:id="45774" />
+        <outline text="Ubuntuka" xmlUrl="http://www.ubuntuka.com/feed" rssowl:id="161388" />
+        <outline text="Ubuntulady's Weblog" xmlUrl="http://ubuntulady.wordpress.com/feed" rssowl:id="85166" />
+        <outline text="UGP (Ubuntu Gaming Project)" xmlUrl="http://ubuntugamingproject.blogspot.com/feeds/posts/default" rssowl:id="92393" />
+        <outline text="Up Ubuntu | Ubuntu Blog" xmlUrl="http://www.upubuntu.com/feeds/posts/default" rssowl:id="164805" />
+        <outline text="Uploads by Linux4UnMe" xmlUrl="http://gdata.youtube.com/feeds/base/users/Linux4UnMe/uploads?alt=rss&amp;v=2&amp;orderby=published&amp;client=ytapi-youtube-profile" rssowl:id="42997" />
+        <outline text="Wazi » Ubuntu" xmlUrl="http://olex.openlogic.com/wazi/package/ubuntu/feed" rssowl:id="52529" />
+        <outline text="Web Upd8 - Ubuntu / Linux blog" xmlUrl="http://www.webupd8.org/feeds/posts/default" rssowl:id="42204" />
+        <outline text="Why Love Linux" xmlUrl="http://whylovelinux.com/feed" rssowl:id="161031" />
+        <outline text="Workround Linux Tips" xmlUrl="http://workaround.org/taxonomy/term/Linux%20tip/feed" rssowl:id="76560" />
+        <outline text="YoLinux.com" xmlUrl="http://www.yolinux.com" rssowl:id="162131" />
+        <outline text="YoLinux: Linux Tutorials Index" xmlUrl="http://www.yolinux.com/TUTORIALS" rssowl:id="162129" />
+        <outline text="Yoshinori Matsunobu's blog" xmlUrl="http://yoshinorimatsunobu.blogspot.com/feeds/posts/default" rssowl:id="93196" />
+        <outline text="ZDN" xmlUrl="http://www.zdnet.com/topics/linux?o=1&amp;mode=rss&amp;tag=mantle_skin;content" rssowl:id="44089" />
+        <outline text="I Do Linux" xmlUrl="http://idolinux.blogspot.com/feeds/posts/default" rssowl:id="93764" />
+        <outline text="IndianGNU.org" xmlUrl="http://www.indiangnu.org/feed" rssowl:id="161029" />
+        <outline text="Innovate or Die" xmlUrl="http://json8.wordpress.com/feed" rssowl:id="86387" />
+        <outline text="The Geek Stuff" xmlUrl="http://feedproxy.google.com/TheGeekStuff" rssowl:id="169650" />
+        <outline text="Linux Compatible" xmlUrl="http://www.linuxcompatible.org/news/rss" rssowl:id="170663" />
+        <outline text="Bilişim Platformu - İncelemeler" xmlUrl="http://www.bilisimplatformu.com/forum/syndication.php?fid=57" rssowl:id="176111" />
+        <outline text="linuX-gamers.net" xmlUrl="http://www.linux-gamers.net/?feed=rss2" rssowl:id="184728" />
+        <outline text="Libre Graphics World. Blog" xmlUrl="http://libregraphicsworld.org/feeds/rss" rssowl:id="187238" />
+        <outline text="Desktop Linux Reviews" xmlUrl="http://desktoplinuxreviews.com/feed" rssowl:id="188843" />
+        <outline text="Starry Hope" xmlUrl="http://www.starryhope.com/feed" rssowl:id="192895" />
+        <outline text="xjonquilx | Sabayon, Ubuntu, Fedora, Linux, Oh My!" xmlUrl="http://xjonquilx.co.cc/feed" rssowl:id="192903" />
+      </outline>
+      <outline text="Türkçe Linux Kaynakları" rssowl:isSet="false" rssowl:id="64661">
+        <outline text="&quot;isamert&quot; » Gezegen" xmlUrl="http://gunluk.isamert.net/category/gezegen/feed" rssowl:id="109976" />
+        <outline text="/home/ras0ir" xmlUrl="http://eventualis.org/feed" rssowl:id="79143" />
+        <outline text="A. Erdinç Köroğlu" xmlUrl="http://www.erdinc.info" rssowl:id="110800" />
+        <outline text="A. Hamdi Özcan" xmlUrl="http://ozcan.com/blog" rssowl:id="110949" />
+        <outline text="A. Murat Eren" xmlUrl="http://cekirdek.pardus.org.tr/~meren/blog/" rssowl:id="110801" />
+        <outline text="Acemi Yazılımcının Günlüğü" xmlUrl="http://yazlimciyim.blogspot.com/feeds/posts/default" rssowl:id="65301" />
+        <outline text="Adem Alp YILDIZ" xmlUrl="http://www.ademalpyildiz.com.tr/feed" rssowl:id="67527" />
+        <outline text="Adil Güneş Akbaş" xmlUrl="http://adilga.wordpress.com" rssowl:id="110951" />
+        <outline text="Ahmet Aygün" xmlUrl="http://ahmet.pardusman.org/blog" rssowl:id="110802" />
+        <outline text="Ahmet Erdoğan" xmlUrl="http://www.tuxmen.com" rssowl:id="110803" />
+        <outline text="akgul.bilkent.edu.tr" xmlUrl="http://xblog.akgul.web.tr" rssowl:id="70579" />
+        <outline text="Akıl Sayar" xmlUrl="http://akilsayar.com/feed" rssowl:id="65979" />
+        <outline text="Akın Ömeroğlu" xmlUrl="http://developer.pardus.org.tr/people/akin/blog" rssowl:id="110804" />
+        <outline text="Ali Erkan İmrek" xmlUrl="http://armuting.blogspot.com/search/label/lkd_gezegen" rssowl:id="110952" />
+        <outline text="Ali Işıngör" xmlUrl="http://www.burkinafasafiso.com" rssowl:id="110805" />
+        <outline text="alper kanat" xmlUrl="http://raptiye.org/blog/feeds/linux/" rssowl:id="67586" />
+        <outline text="Alper Kanat" xmlUrl="http://raptiye.org/" rssowl:id="110953" />
+        <outline text="Alper Oğuz" xmlUrl="http://blog.oguz.biz/feed" rssowl:id="67598" />
+        <outline text="Alper Somuncu" xmlUrl="http://www.alpersomuncu.com/blog" rssowl:id="110806" />
+        <outline text="Anka Bilişim Sistemleri" xmlUrl="http://ankabilisim.org/?feed=rss2" rssowl:id="68714" />
+        <outline text="Aranel Surion'un Blogu" xmlUrl="http://www.aranelsurion.org/feed" rssowl:id="112" />
+        <outline text="Arda Çetin" xmlUrl="http://ardacetin.net" rssowl:id="110807" />
+        <outline text="Arka Bahçe" xmlUrl="http://gunluk.lyildirim.net/feed" rssowl:id="70324" />
+        <outline text="armut" xmlUrl="http://armuting.blogspot.com/feeds/posts/default" rssowl:id="67584" />
+        <outline text="Arslanlar Şehri" xmlUrl="http://feeds.feedburner.com/arsln" rssowl:id="69116" />
+        <outline text="Arslanlar Şehri" xmlUrl="http://feeds.feedburner.com/arsln" rssowl:id="109618" />
+        <outline text="Ayan Öztürk" xmlUrl="http://www.ayanozturk.com/blog" rssowl:id="110808" />
+        <outline text="aydin@demirel" xmlUrl="http://www.demirel.web.tr/?feed=rss2" rssowl:id="84152" />
+        <outline text="AÇIK GÜNLÜK" xmlUrl="http://ozgurilgin.wordpress.com/feed" rssowl:id="111" />
+        <outline text="Açık Parmak" xmlUrl="http://acikparmak.blogspot.com/feeds/posts/default?alt=rss" rssowl:id="111079" />
+        <outline text="Bahadır Kandemir" xmlUrl="http://siyahdefter.com" rssowl:id="110809" />
+        <outline text="Bahri Meriç CANLI Kişisel Web Sitesi" xmlUrl="http://www.bahri.info/blog/feed" rssowl:id="67659" />
+        <outline text="Barış Metin" xmlUrl="http://www.metin.org/gunluk/" rssowl:id="110810" />
+        <outline text="Barış Özyurt" xmlUrl="http://www.tuxworkshop.com/blog" rssowl:id="110811" />
+        <outline text="Batuhan Bayrakçı" xmlUrl="http://www.batuhanbayrakci.com" rssowl:id="110812" />
+        <outline text="BayboraKaan'ın Günlüğü" xmlUrl="http://bayborakaan.blogspot.com/feeds/posts/default" rssowl:id="105022" />
+        <outline text="Bayram Karagöz" xmlUrl="http://www.bayramkaragoz.org" rssowl:id="110956" />
+        <outline text="başka teknolojiler / başka dünyalar" xmlUrl="http://www.erhanekici.com/blog/feed" rssowl:id="68984" />
+        <outline text="Bekir Karul" xmlUrl="http://www.bekirkarul.net/feed/rss" rssowl:id="111061" />
+        <outline text="Ben, Linux, Dünyam." xmlUrl="http://pardusever.blogspot.com/feeds/posts/default" rssowl:id="68600" />
+        <outline text="Bilişim Platformu | Hijackthis, zararlı yazılım temizliği, rapor inceleme - Özgür Dünyadan Haberler" xmlUrl="http://www.bilisimplatformu.com/forum/syndication.php?fid=30" rssowl:id="90260" />
+        <outline text="Bilöker" xmlUrl="http://developer.pardus.org.tr/people/loker/blog/feed" rssowl:id="69989" />
+        <outline text="Bir Takım Olaylar » LINUX" xmlUrl="http://birtakimolaylar.wordpress.com/tag/linux/feed/" rssowl:id="111083" />
+        <outline text="Bir Takım Şeyler" xmlUrl="http://developer.pardus.org.tr/people/faik/blog/?feed=rss" rssowl:id="79216" />
+        <outline text="Bir şeyler var burada!" xmlUrl="http://birseyler.org/feed" rssowl:id="37683" />
+        <outline text="bluzz.net" xmlUrl="http://blog.bluzz.net/feed" rssowl:id="65176" />
+        <outline text="Burak Dayıoğlu" xmlUrl="http://www.burakdayioglu.net" rssowl:id="110957" />
+        <outline text="burak@unix~$" xmlUrl="http://buraxezer.wordpress.com/feed" rssowl:id="145" />
+        <outline text="Burkina Fasa Fiso" xmlUrl="http://www.burkinafasafiso.com/category/ozgur-yazilim/feed" rssowl:id="72598" />
+        <outline text="Cagri Ersen" xmlUrl="http://www.syslogs.org" rssowl:id="110958" />
+        <outline text="Camia Koordinatörleri" xmlUrl="http://developer.pardus.org.tr/people/topluluk/blog" rssowl:id="110813" />
+        <outline text="Can Burak Çilingir" xmlUrl="http://canburak.wordpress.com/feed" rssowl:id="67846" />
+        <outline text="Can İnce" xmlUrl="http://can.logikit.net" rssowl:id="110961" />
+        <outline text="Can Kavaklıoğlu" xmlUrl="http://173.212.207.156/~can2/kosebasi" rssowl:id="110960" />
+        <outline text="Caner Bulut" xmlUrl="http://canerblt.wordpress.com" rssowl:id="110962" />
+        <outline text="Cem Küçük - Run On Linux" xmlUrl="http://cemkucuk.wordpress.com/feed" rssowl:id="116754" />
+        <outline text="Cem Sönmez" xmlUrl="http://cemosonmez.blogspot.com/search/label/gezegen" rssowl:id="110963" />
+        <outline text="Cem Türker" xmlUrl="http://www.cemturker.net" rssowl:id="110814" />
+        <outline text="Cem's Blog" xmlUrl="http://cemosonmez.blogspot.com/feeds/posts/default" rssowl:id="68070" />
+        <outline text="Ceyhun Alyeşil" xmlUrl="http://devador.blogspot.com/search/label/linux" rssowl:id="110964" />
+        <outline text="Cihan Okyay" xmlUrl="http://cihanokyay.wordpress.com" rssowl:id="110815" />
+        <outline text="Cüneyt Hayrullah" xmlUrl="http://chayrullah.blogspot.com/feeds/posts/default" rssowl:id="116927" />
+        <outline text="d(¬,¬)b" xmlUrl="http://jeaquares.wordpress.com/feed" rssowl:id="79150" />
+        <outline text="dark in the sunlight » Linux" xmlUrl="http://blog.omerfarukak.com/category/bilgisayar/linux/feed/" rssowl:id="111082" />
+        <outline text="Dayıoğlu Günlüğü" xmlUrl="http://www.burakdayioglu.net/feed" rssowl:id="67688" />
+        <outline text="Defteri Kebir {DefteriKebir.tk}" xmlUrl="http://www.defterikebir.tk/feeds/posts/default" rssowl:id="68829" />
+        <outline text="Deniz Koçak" xmlUrl="http://flyeater.wordpress.com" rssowl:id="110965" />
+        <outline text="Devador" xmlUrl="http://devador.blogspot.com/feeds/posts/default" rssowl:id="68198" />
+        <outline text="Devrim Gündüz" xmlUrl="http://blog.gunduz.org/" rssowl:id="110966" />
+        <outline text="Doruk Fişek" xmlUrl="http://zzz.fisek.com.tr/seyir-defteri" rssowl:id="110967" />
+        <outline text="Doğukan Çağatay" xmlUrl="http://www.dogukancagatay.com" rssowl:id="110816" />
+        <outline text="e-bergi" xmlUrl="http://e-bergi.com/rss.xml" rssowl:id="146" />
+        <outline text="Efe Çiftci" xmlUrl="http://www.efeciftci.com" rssowl:id="110968" />
+        <outline text="Ekin Alpagut" xmlUrl="http://www.penguenci.net" rssowl:id="110969" />
+        <outline text="Ekin Meroğlu" xmlUrl="http://ekin.fisek.com.tr/blog" rssowl:id="110818" />
+        <outline text="Ekrem Seren" xmlUrl="http://www.ekremseren.com/weblog/" rssowl:id="110819" />
+        <outline text="Elektronik Yayın Arşivi" xmlUrl="http://belgelerim.wordpress.com/feed" rssowl:id="116241" />
+        <outline text="Emin Uğur Kenar" xmlUrl="http://eminugurkenar.wordpress.com" rssowl:id="110820" />
+        <outline text="emrah" xmlUrl="http://emrahcom.blogspot.com/feeds/posts/default" rssowl:id="68586" />
+        <outline text="Emre Can Şüşter" xmlUrl="http://pardusever.blogspot.com/search/label/gezegen" rssowl:id="110971" />
+        <outline text="Emre Erkek" xmlUrl="http://emreerkek.com" rssowl:id="110821" />
+        <outline text="Emre Eryılmaz" xmlUrl="http://linux.piesso.com" rssowl:id="110972" />
+        <outline text="Enes Ateş" xmlUrl="http://www.enesates.com" rssowl:id="110822" />
+        <outline text="Enes Ayyıldız" xmlUrl="http://enesayyildiz.com/feed" rssowl:id="116628" />
+        <outline text="Enes Ayyıldız" xmlUrl="http://blog.enesayyildiz.com/feed" rssowl:id="117553" />
+        <outline text="Enixma Özgür Yazılım Dergisi" xmlUrl="http://www.enixma.org/enixma.rss" rssowl:id="120" />
+        <outline text="Ercan Topalak" xmlUrl="http://ankabilisim.org" rssowl:id="110973" />
+        <outline text="Erdi Gürbüz" xmlUrl="http://egcodes.blogspot.com/search/label/pardus" rssowl:id="110823" />
+        <outline text="Erek Göktürk" xmlUrl="http://blog.mdasheg.com/search/label/%C3%B6zg%C3%BCr%20yaz%C4%B1l%C4%B1m" rssowl:id="110974" />
+        <outline text="Eren Kovancı" xmlUrl="http://www.defterikebir.tk/search/label/A%C3%A7%C4%B1k%20Kaynak%20D%C3%BCnyas%C4%B1" rssowl:id="110975" />
+        <outline text="eren@home ~ $" xmlUrl="https://qwzxcv.wordpress.com/feed" rssowl:id="68925" />
+        <outline text="Erhan Ekici" xmlUrl="http://www.erhanekici.com/blog" rssowl:id="110977" />
+        <outline text="Ertan GÜVEN" xmlUrl="http://ertanguven.net/blog/feed" rssowl:id="69040" />
+        <outline text="Ertan Güven" xmlUrl="http://ertanguven.net/blog" rssowl:id="110978" />
+        <outline text="ertan tekman" xmlUrl="http://blog.erkantekman.org/?feed=rss2" rssowl:id="72792" />
+        <outline text="Ertuğrul Erata" xmlUrl="http://ertugerata.org" rssowl:id="110826" />
+        <outline text="Erçin Eker" xmlUrl="http://www.kibirli.org/blog" rssowl:id="110979" />
+        <outline text="Faik Uygur" xmlUrl="http://www.faikuygur.com/blog" rssowl:id="110827" />
+        <outline text="FANTOM'UN YERİ" xmlUrl="http://tormator.blogspot.com/feeds/posts/default" rssowl:id="110" />
+        <outline text="Fatih Arslan" xmlUrl="http://blog.arsln.org" rssowl:id="110828" />
+        <outline text="Fatih Aşıcı" xmlUrl="http://developer.pardus.org.tr/people/fatih/blog" rssowl:id="110829" />
+        <outline text="Fatih Durmuş" xmlUrl="http://blog.fatihdurmus.org/search/label/staj" rssowl:id="110830" />
+        <outline text="Fatih Özavcı" xmlUrl="http://siyahsapka.blogspot.com/search/label/Gezegen" rssowl:id="110980" />
+        <outline text="FedoraTR" xmlUrl="http://fedoratr.org/rss.xml" rssowl:id="111066" />
+        <outline text="Fikret Tozak" xmlUrl="http://linuxogrenmekistiyorum.com" rssowl:id="110981" />
+        <outline text="Free as in Flying » linux" xmlUrl="http://atomkarinca.wordpress.com/category/linux/feed/" rssowl:id="111069" />
+        <outline text="Furkan CALISKAN" xmlUrl="http://www.furkancaliskan.com/blog/feed" rssowl:id="69389" />
+        <outline text="Gentoo-Tr Gezegeni" xmlUrl="http://gezegen.gentoo-tr.org/atom.xml" rssowl:id="47757" />
+        <outline text="GNOME Türkiye" xmlUrl="http://www.gnome.org.tr/index2.php?option=com_rss&amp;feed=RSS2.0&amp;no_html=1" rssowl:id="69431" />
+        <outline text="GNU/Linux - Distro Guide » Gezegen" xmlUrl="http://distroguide.wordpress.com/category/gezegen/feed/" rssowl:id="111065" />
+        <outline text="gurcanozturk.com" xmlUrl="http://gurcanozturk.com/feed" rssowl:id="69749" />
+        <outline text="Gökdeniz Karadağ" xmlUrl="http://gokdenix.blogspot.com/search/label/gezegen" rssowl:id="110983" />
+        <outline text="Gökhan Özbulak" xmlUrl="http://developer.pardus.org.tr/people/gozbulak/blog" rssowl:id="110832" />
+        <outline text="Gökmen Göksel" xmlUrl="http://blog.gokmengoksel.com/feed" rssowl:id="69566" />
+        <outline text="Gökmen Görgen" xmlUrl="http://gokmengorgen.net" rssowl:id="110834" />
+        <outline text="Günce » öi" xmlUrl="http://feeds.feedburner.com/osmank3-oi" rssowl:id="109852" />
+        <outline text="Güngör Basa'nın Web Günlüğü" xmlUrl="http://gungorbasa.blogspot.com/feeds/posts/default" rssowl:id="69647" />
+        <outline text="Gürcan Öztürk" xmlUrl="http://gurcanozturk.com" rssowl:id="110985" />
+        <outline text="Gürer Özen" xmlUrl="http://6kere9.com/blag/" rssowl:id="110835" />
+        <outline text="Habertux.com" xmlUrl="http://www.habertux.com/feed" rssowl:id="74362" />
+        <outline text="Hakan Müştak" xmlUrl="http://www.mustak.org/feed" rssowl:id="117" />
+        <outline text="hakan.uygun.yazıyor.*" xmlUrl="http://www.hakanuygun.com/blog/?feed=rss2" rssowl:id="73097" />
+        <outline text="Harun Şeker" xmlUrl="http://www.harunseker.org/feeds/posts/default" rssowl:id="63945" />
+        <outline text="Hasan Yılmaz" xmlUrl="http://hasanyilmaz.net/feed" rssowl:id="47780" />
+        <outline text="hayalci'nin maceraları" xmlUrl="http://gokdenix.blogspot.com/feeds/posts/default" rssowl:id="69453" />
+        <outline text="Huzur Mekanı" xmlUrl="http://talat.uyarer.com/?feed=rss2" rssowl:id="65403" />
+        <outline text="Hüseyin Berberoğlu'nun web günlüğü" xmlUrl="http://www.birazkisisel.com/feed" rssowl:id="69898" />
+        <outline text="Hüseyin Keleş" xmlUrl="http://www.whosayin.com" rssowl:id="110836" />
+        <outline text="İlkin Ulas Balkanay" xmlUrl="http://ilkinbalkanay.blogspot.com/search/label/Gezegen" rssowl:id="111034" />
+        <outline text="irf" xmlUrl="http://igulkan.blogspot.com/feeds/posts/default" rssowl:id="73578" />
+        <outline text="Jeaquares / Suicidal Imbecile" xmlUrl="http://jeaquares.blogspot.com/feeds/posts/default" rssowl:id="116543" />
+        <outline text="K. Deniz Öğüt" xmlUrl="http://marenostrum.blogsome.com" rssowl:id="110988" />
+        <outline text="Kaya Oğuz" xmlUrl="http://oguz.name.tr/feed" rssowl:id="69970" />
+        <outline text="King of Kebab" xmlUrl="http://flyeater.wordpress.com/feed" rssowl:id="68323" />
+        <outline text="Kod Bloğu" xmlUrl="http://pardus.co/?feed=rss2" rssowl:id="110481" />
+        <outline text="Koray Löker" xmlUrl="http://developer.pardus.org.tr/people/loker/blog" rssowl:id="110837" />
+        <outline text="Koçhane Kayıtları" xmlUrl="http://kivi.com.tr/blog/?feed=rss2" rssowl:id="70529" />
+        <outline text="Kubilay Kocabalkan's Blog" xmlUrl="http://kubilaykocabalkan.wordpress.com/feed" rssowl:id="70041" />
+        <outline text="Kubilay Onur Güngör" xmlUrl="http://www.kirmizivesiyah.org" rssowl:id="110991" />
+        <outline text="Köşebaşı" xmlUrl="http://173.212.207.156/~can2/kosebasi/rss.xml" rssowl:id="67899" />
+        <outline text="Kırmızı ve Siyah" xmlUrl="http://www.kirmizivesiyah.org/index.php/feed" rssowl:id="70104" />
+        <outline text="Lay Lay Lom GIMP" xmlUrl="http://laylaylomgimp.blogspot.com/feeds/posts/default?alt=rss" rssowl:id="108664" />
+        <outline text="Levent Yıldırım" xmlUrl="http://gunluk.lyildirim.net" rssowl:id="110999" />
+        <outline text="Linux Gezegeni" xmlUrl="http://gezegen.linux.org.tr/rss20.xml" rssowl:id="64180" />
+        <outline text="Linux Haberleri" xmlUrl="http://www.linuxhaberleri.com/index.php?format=feed&amp;type=rss&amp;lang=tr" rssowl:id="82938" />
+        <outline text="Linux İpucu" xmlUrl="http://www.linuxipucu.com/?feed=rss2" rssowl:id="155" />
+        <outline text="Linux İpuçları" xmlUrl="http://www.linuxipuclari.com/feed" rssowl:id="70325" />
+        <outline text="Linux Kullanıcıları Derneği Günlüğü" xmlUrl="http://gunluk.lkd.org.tr/feed" rssowl:id="70231" />
+        <outline text="Linux Mint Türkiye" xmlUrl="http://www.linuxmint.org.tr/feed" rssowl:id="152" />
+        <outline text="Linux Mint Türkiye Gezegeni" xmlUrl="http://gezegen.linuxmint.org.tr/feed.php?type=rss" rssowl:id="108413" />
+        <outline text="Linux Mint Türkiye Wiki" xmlUrl="http://wiki.linuxmint.org.tr/index.php?title=%C3%96zel:YeniSayfalar&amp;feed=atom" rssowl:id="47719" />
+        <outline text="Linux Türkiye" xmlUrl="http://www.linux.net.tr/feed" rssowl:id="82831" />
+        <outline text="Linux ve Özgürlük" xmlUrl="http://linux.piesso.com/feed" rssowl:id="68672" />
+        <outline text="Linux Öğrenme Zamanı" xmlUrl="http://www.linuxogren.com/feed" rssowl:id="151" />
+        <outline text="Linux Öğrenmek İstiyorum !" xmlUrl="http://linuxogrenmekistiyorum.com/feed" rssowl:id="69307" />
+        <outline text="Linux, Özgür Yazılım ve Her Şey" xmlUrl="http://www.linux.org.tr/feed" rssowl:id="82716" />
+        <outline text="Linuxipuclari" xmlUrl="http://www.linuxipuclari.com" rssowl:id="111000" />
+        <outline text="Linuxuzmani.com" xmlUrl="http://www.linuxuzmani.com/feed" rssowl:id="153" />
+        <outline text="LKD FTP Çalışma Grubu" xmlUrl="http://gunluk.lkd.org.tr" rssowl:id="110992" />
+        <outline text="LKD Gezegen Duyuruları" xmlUrl="http://gunluk.lkd.org.tr" rssowl:id="110993" />
+        <outline text="LKD Seminer Duyuruları" xmlUrl="http://seminer.linux.org.tr" rssowl:id="110994" />
+        <outline text="LKD Sponsor Çalışma Grubu" xmlUrl="http://gunluk.lkd.org.tr" rssowl:id="110995" />
+        <outline text="LKD Web Çalışma Grubu" xmlUrl="http://gunluk.lkd.org.tr" rssowl:id="110996" />
+        <outline text="LKD YK" xmlUrl="http://gunluk.lkd.org.tr" rssowl:id="110997" />
+        <outline text="LKD Şenlik Çalışma Grubu" xmlUrl="http://gunluk.lkd.org.tr" rssowl:id="110998" />
+        <outline text="LINUX-PARDUS Dünyam" xmlUrl="http://linuxpardus.blogspot.com/feeds/posts/default" rssowl:id="71881" />
+        <outline text="M.Murat Akbaş" xmlUrl="http://mmakbas.wordpress.com" rssowl:id="111001" />
+        <outline text="Madblog" xmlUrl="http://blog.gunduz.org/index.php?/feeds/index.rss2" rssowl:id="68357" />
+        <outline text="maidis" xmlUrl="http://anilozbek.blogspot.com/feeds/posts/default" rssowl:id="72230" />
+        <outline text="Mare Nostrum k. deniz öğüt seyir defteri" xmlUrl="http://marenostrum.blogsome.com/feed/" rssowl:id="69968" />
+        <outline text="Mehmet Büyüközer" xmlUrl="http://www.amerikadabirgun.com" rssowl:id="111002" />
+        <outline text="Mehmet Dündar Akın" xmlUrl="http://parduspardus.blogspot.com/" rssowl:id="110838" />
+        <outline text="Mehmet Emre Atasever" xmlUrl="http://developer.pardus.org.tr/people/memre/blog" rssowl:id="110839" />
+        <outline text="Mehmet Murat AKBAS" xmlUrl="http://mmakbas.wordpress.com/feed" rssowl:id="70327" />
+        <outline text="Merve Karabulut" xmlUrl="http://www.mervekarabulut.net/blog" rssowl:id="110840" />
+        <outline text="Merve Yalçın" xmlUrl="http://merveyalcin.com" rssowl:id="111003" />
+        <outline text="Mesutcan Kurt" xmlUrl="http://mesutcank.blogspot.com/" rssowl:id="110841" />
+        <outline text="Mete Bilgin" xmlUrl="http://blog.metebilgin.com/search/label/pardus" rssowl:id="110842" />
+        <outline text="Metehan Özbek" xmlUrl="http://www.metehan.us" rssowl:id="111004" />
+        <outline text="MetehanUs" xmlUrl="http://www.metehan.us/feed" rssowl:id="109191" />
+        <outline text="Metin Akdere" xmlUrl="http://developer.pardus.org.tr/people/metin/blog" rssowl:id="110843" />
+        <outline text="mgokay » linux" xmlUrl="http://mgokay.wordpress.com/category/linux/feed/" rssowl:id="111070" />
+        <outline text="Morning Glory" xmlUrl="http://handlet.blogspot.com/feeds/posts/default" rssowl:id="64880" />
+        <outline text="Murat HAZER" xmlUrl="http://mhazer.blogspot.com/feeds/posts/default" rssowl:id="70465" />
+        <outline text="Murat Hazer" xmlUrl="http://mhazer.blogspot.com/search/label/gezegen" rssowl:id="111005" />
+        <outline text="Murat Koç" xmlUrl="http://kivi.com.tr/blog" rssowl:id="111006" />
+        <outline text="Murat TİKİL" xmlUrl="http://murattikil.blogspot.com/" rssowl:id="111007" />
+        <outline text="murattikil" xmlUrl="http://murattikil.blogspot.com/feeds/posts/default" rssowl:id="70531" />
+        <outline text="Mustafa Günay" xmlUrl="http://www.mgunay.net/zangetsu/blog/" rssowl:id="110844" />
+        <outline text="Mustafa Karakaplan" xmlUrl="http://mkarakaplan.wordpress.com" rssowl:id="111008" />
+        <outline text="Mustafa Karakaplan'ın Günlüğü" xmlUrl="http://mkarakaplan.wordpress.com/feed" rssowl:id="70581" />
+        <outline text="Mürekkep - İnternet Yaşam Rehberiniz" xmlUrl="http://www.murekkep.org/feed" rssowl:id="109620" />
+        <outline text="Nasıl Yapılır? » Linux" xmlUrl="http://olcayertas.wordpress.com/category/linux/feed" rssowl:id="87125" />
+        <outline text="nazım akın" xmlUrl="http://www.nazimakin.com/category/linux-unix/feed" rssowl:id="157" />
+        <outline text="Necati Demir" xmlUrl="http://blog.demir.web.tr/feeds/posts/default" rssowl:id="67474" />
+        <outline text="necdet yücel" xmlUrl="http://nyucel.blogspot.com/feeds/posts/default" rssowl:id="67317" />
+        <outline text="Neden Linux?" xmlUrl="http://nedenlinux.wordpress.com/feed" rssowl:id="116614" />
+        <outline text="Nihad Karslı" xmlUrl="http://www.r-3.org/blog/?feed=rss2" rssowl:id="67259" />
+        <outline text="Okan Akyüz" xmlUrl="http://www.okanakyuz.com/feed" rssowl:id="67223" />
+        <outline text="Olympos - Bilgi Güvenliği Rehberi" xmlUrl="http://www.olympos.net/rss.xml" rssowl:id="86243" />
+        <outline text="Onu Yalazı" xmlUrl="http://www.yalazi.org/feed" rssowl:id="67089" />
+        <outline text="Onur Aslan" xmlUrl="http://onur.im/blog" rssowl:id="111013" />
+        <outline text="Onur ASLAN  (aslanon)" xmlUrl="http://aslanonur.blogspot.com/feeds/posts/default" rssowl:id="41598" />
+        <outline text="Onur Aslan'ın Blogu" xmlUrl="http://onur.im/blog/feed" rssowl:id="67185" />
+        <outline text="Onur Güzel" xmlUrl="http://www.onurguzel.com" rssowl:id="110846" />
+        <outline text="Onur Tolga Şehitoğlu" xmlUrl="http://sehitoglu.web.tr/gunluk" rssowl:id="111014" />
+        <outline text="Onur Yalazı" xmlUrl="http://www.yalazi.org" rssowl:id="111015" />
+        <outline text="osa1.net yazilar" xmlUrl="http://www.osa1.net/feed" rssowl:id="79968" />
+        <outline text="Oytun Özdemir" xmlUrl="http://blog.oytunozdemir.com/feed" rssowl:id="116369" />
+        <outline text="Ozan Aydın" xmlUrl="http://tilkinindilinden.com" rssowl:id="111016" />
+        <outline text="Ozan Çağlayan" xmlUrl="http://developer.pardus.org.tr/people/ozan/blog" rssowl:id="110847" />
+        <outline text="oğuz yarımtepe" xmlUrl="http://www.loopbacking.info/blog/feed" rssowl:id="66184" />
+        <outline text="Oğuz Yarımtepe" xmlUrl="http://www.loopbacking.info/blog" rssowl:id="111017" />
+        <outline text="Pardus Dünyası" xmlUrl="http://gezegen.pardus.org.tr/rss20.xml" rssowl:id="64295" />
+        <outline text="Pardus Kullanıcıları Derneği" xmlUrl="http://www.pkd.org.tr/feed" rssowl:id="82750" />
+        <outline text="Pardus-eDergi.org" xmlUrl="http://www.pardus-edergi.org/feed/" rssowl:id="124" />
+        <outline text="Pardus-Linux.org" xmlUrl="http://www.pardus-linux.org/feed" rssowl:id="107" />
+        <outline text="Pardus-Linux.Org toplayıcısı" xmlUrl="http://www.pardus-linux.org/aggregator/rss/1" rssowl:id="103348" />
+        <outline text="PardusWiki" xmlUrl="http://tr.pardus-wiki.org/index.php?title=%C3%96zel:YeniSayfalar&amp;feed=rss&amp;namespace=0" rssowl:id="41554" />
+        <outline text="Penguen Günlüğü" xmlUrl="http://xhektor.wordpress.com/feed" rssowl:id="174" />
+        <outline text="Penguenci.net" xmlUrl="http://www.penguenci.net/?feed=rss2" rssowl:id="68456" />
+        <outline text="Penguenler de Oynar" xmlUrl="http://penguenlerdeoynar.blogspot.com/feeds/posts/default?alt=rss" rssowl:id="108817" />
+        <outline text="pes dedirten adam » Ubuntu" xmlUrl="http://pesdedirtenadam.com/category/ubuntu/feed" rssowl:id="40875" />
+        <outline text="Phirinux Linux Blog" xmlUrl="http://phirinux.blogspot.com/feeds/posts/default" rssowl:id="74360" />
+        <outline text="PHP Dergi" xmlUrl="http://www.phpdergi.com/feed" rssowl:id="121" />
+        <outline text="Planet Pardus" xmlUrl="http://planet.pardus.org.tr/rss20.xml" rssowl:id="72742" />
+        <outline text="Prag Günlüğü" xmlUrl="http://www.kadiraltan.com/blog/?feed=rss2" rssowl:id="100125" />
+        <outline text="Pınar Yanardağ" xmlUrl="http://pinguar.org/blog" rssowl:id="110848" />
+        <outline text="Rasim Akar" xmlUrl="http://www.rasimakar.org" rssowl:id="110849" />
+        <outline text="recep kırmızı" xmlUrl="http://rkirmizi.org/feed" rssowl:id="66162" />
+        <outline text="Renan Cakirerk" xmlUrl="http://cakirerk.org/feed" rssowl:id="79242" />
+        <outline text="ROOT" xmlUrl="http://root.linuxmint.org.tr/feed" rssowl:id="122" />
+        <outline text="S. Çağlar Onur" xmlUrl="http://blog.10ur.org" rssowl:id="110852" />
+        <outline text="samed beyribey" xmlUrl="http://eventualis.org/feed" rssowl:id="66113" />
+        <outline text="Sedat Geldi" xmlUrl="http://seddi.me/?feed=rss2" rssowl:id="79228" />
+        <outline text="Sedat Geldi" xmlUrl="http://seddi.me" rssowl:id="110853" />
+        <outline text="Semen Cirit" xmlUrl="http://developer.pardus.org.tr/people/semen/blog" rssowl:id="110854" />
+        <outline text="Seminer Çalışmaları .:. Linux Kullanıcıları Derneği" xmlUrl="http://seminer.linux.org.tr/feed" rssowl:id="70254" />
+        <outline text="Serbülent Ünsal'ın Web Günlüğü" xmlUrl="http://nightwalkers.blogspot.com/feeds/posts/default" rssowl:id="66026" />
+        <outline text="Serdar Dalgıç" xmlUrl="http://developer.pardus.org.tr/people/serdar/blog" rssowl:id="110856" />
+        <outline text="Serdar Güler" xmlUrl="http://akilsayar.com" rssowl:id="111020" />
+        <outline text="Serdar Soytetir" xmlUrl="http://www.tetir.net/zangetsu/blog/" rssowl:id="110857" />
+        <outline text="Serkan Altuntaş" xmlUrl="http://serkan.gen.tr" rssowl:id="111021" />
+        <outline text="Serkan Kaba" xmlUrl="http://serkank.wordpress.com/feed" rssowl:id="65639" />
+        <outline text="Serkan Kenar" xmlUrl="http://serkan.feyvi.org/blog" rssowl:id="111022" />
+        <outline text="Server Acim" xmlUrl="http://blog.acim.name.tr" rssowl:id="111023" />
+        <outline text="sgunes timeline" xmlUrl="http://identi.ca/sgunes/rss" rssowl:id="63807" />
+        <outline text="Sinan Onur Altınuç" xmlUrl="http://www.sinanonur.com" rssowl:id="111024" />
+        <outline text="Sinan'ın Seyir Defteri" xmlUrl="http://www.sinanonur.com/feed" rssowl:id="65435" />
+        <outline text="Sinem Oğuz" xmlUrl="http://sinemoguz.org" rssowl:id="110859" />
+        <outline text="Sit Alanı'nın Seyir Defteri" xmlUrl="http://zzz.fisek.com.tr/seyir-defteri/?feed=rss2" rssowl:id="68359" />
+        <outline text="Siyah Şapka" xmlUrl="http://siyahsapka.blogspot.com/feeds/posts/default" rssowl:id="69224" />
+        <outline text="statu variabilis" xmlUrl="http://feeds.feedburner.com/ao_pardus" rssowl:id="110121" />
+        <outline text="SUDO" xmlUrl="http://sudo.ubuntu-tr.net/feed" rssowl:id="144" />
+        <outline text="Syslogs" xmlUrl="http://www.syslogs.org/feed" rssowl:id="84300" />
+        <outline text="Sütlü Kahve" xmlUrl="http://ekin.fisek.com.tr/blog/?feed=rss2" rssowl:id="68537" />
+        <outline text="Taha Altuntaş" xmlUrl="http://www.tahaaltuntas.com" rssowl:id="110860" />
+        <outline text="Talat Uyarer" xmlUrl="http://talat.uyarer.com" rssowl:id="111025" />
+        <outline text="Taner Güven" xmlUrl="http://tanerguven.org" rssowl:id="110861" />
+        <outline text="Tankado.com" xmlUrl="http://www.tankado.com/linus/feed/" rssowl:id="62569" />
+        <outline text="Tayfur Taybuğa" xmlUrl="http://taybuga.blogspot.com/feeds/posts/default/-/linuxgezegen" rssowl:id="111073" />
+        <outline text="Teknoloji Labs" xmlUrl="http://www.teknolojilabs.com/feed" rssowl:id="109" />
+        <outline text="Teknolojiden Esintiler.... » Ubuntu" xmlUrl="http://www.emreoner.com/tag/ubuntu/feed/" rssowl:id="111063" />
+        <outline text="Teknozat.Com" xmlUrl="http://www.teknozat.com/feed" rssowl:id="64956" />
+        <outline text="Tilkinin Dilinden" xmlUrl="http://tilkinindilinden.com/feed" rssowl:id="66234" />
+        <outline text="Tonguç Yumruk'un Weblog'u" xmlUrl="http://tonguc.name/blog//?flav=rss" rssowl:id="65396" />
+        <outline text="Truva Linux" xmlUrl="http://truvalinux.blogspot.com/feeds/posts/default" rssowl:id="72336" />
+        <outline text="Tuncer Çolak" xmlUrl="http://www.tuncercolak.net/blog" rssowl:id="110862" />
+        <outline text="Tux Aeterna" xmlUrl="http://blog.acim.name.tr/?feed=rss2" rssowl:id="65581" />
+        <outline text="Tuxleaks" xmlUrl="http://tuxleaks.org/feed" rssowl:id="117426" />
+        <outline text="TuxMint" xmlUrl="http://tuxmint.linuxmint.org.tr/feed" rssowl:id="59303" />
+        <outline text="Tuğsan ÜNLÜ | Blog » Özgür Yazılım" xmlUrl="http://www.tugsanunlu.com/blog/category/ozgur-yazilim/feed" rssowl:id="109058" />
+        <outline text="Ubuntu Günlüğüm" xmlUrl="http://ubuntugunluk.wordpress.com/feed" rssowl:id="148" />
+        <outline text="Ubuntu Türkiye" xmlUrl="http://www.ubuntu-tr.net/feed/" rssowl:id="111075" />
+        <outline text="Ubuntu Türkiye - Yeni sayfalar [tr]" xmlUrl="http://wiki.ubuntu-tr.net/index.php?title=%C3%96zel:YeniSayfalar&amp;feed=atom" rssowl:id="42065" />
+        <outline text="Ubuntu Türkiye Gezegen" xmlUrl="http://gezegen.ubuntu-tr.net/atom.xml" rssowl:id="127" />
+        <outline text="Ufuk Kılıçaslan" xmlUrl="http://ufuxlinux.com/kategori/linux/feed" rssowl:id="111076" />
+        <outline text="UNIX, Daemon, Beastie ve Puffy" xmlUrl="http://feeds.feedburner.com/UnixDaemonBeastiePuffy" rssowl:id="84328" />
+        <outline text="Useless Journal v5" xmlUrl="http://www.kibirli.org/blog/?feed=rss2" rssowl:id="69111" />
+        <outline text="UZLAK" xmlUrl="http://uzlak.wordpress.com/feed" rssowl:id="64499" />
+        <outline text="Uğurcan Ergün" xmlUrl="http://yazlimciyim.blogspot.com/search/label/Gezegen" rssowl:id="111027" />
+        <outline text="volkan tokmak" xmlUrl="http://www.volkantokmak.com/blog/feed" rssowl:id="115572" />
+        <outline text="YAMÇI » GNU/LINUX-Özgür Yazılım" xmlUrl="http://yucelkilic.com/?feed=rss2&amp;cat=3" rssowl:id="111081" />
+        <outline text="yasar11732: En Son Yazılar" xmlUrl="http://yasar.serveblog.net/rss" rssowl:id="109050" />
+        <outline text="Yiğit Özdemir" xmlUrl="http://yigitozdemir.wordpress.com/category/linux/feed/" rssowl:id="111080" />
+        <outline text="Yönetmen Penguen" xmlUrl="http://yonetmenpenguen.blogspot.com/feeds/posts/default?alt=rss" rssowl:id="108536" />
+        <outline text="Zeki Bildirici" xmlUrl="http://blog.bluzz.net" rssowl:id="111028" />
+        <outline text="Zemberek NLP" xmlUrl="http://zembereknlp.blogspot.com/feeds/posts/default" rssowl:id="65111" />
+        <outline text="ZX" xmlUrl="http://www.efeciftci.com/feed" rssowl:id="68391" />
+        <outline text="~erenust" xmlUrl="http://erenust.blogspot.com/feeds/posts/default" rssowl:id="111077" />
+        <outline text="» GNU/Linux" xmlUrl="http://www.polatbuyukarslan.com/category/linux/feed" rssowl:id="59336" />
+        <outline text="» Gnu/Linux" xmlUrl="http://www.teknolojilabs.com/category/linux-dunyasi/feed/" rssowl:id="111074" />
+        <outline text="Çağdaş'ın Günlüğü" xmlUrl="http://www.cagdastopcu.com/feed" rssowl:id="100523" />
+        <outline text="Çağrı ersan" xmlUrl="http://www.syslogs.org/feed" rssowl:id="67776" />
+        <outline text="ÇOklu MAsaüstü Kurulumu" xmlUrl="http://comakp.blogspot.com/feeds/posts/default" rssowl:id="109348" />
+        <outline text="Çoğunlukla Zararsız" xmlUrl="http://cogunluklazararsiz.org/feed" rssowl:id="65303" />
+        <outline text="Ömer Akyüz" xmlUrl="http://kapadokyayazilim.com/gunluk/omerakyuz/feed" rssowl:id="65072" />
+        <outline text="Özgür Kuru" xmlUrl="http://feeds.feedburner.com/ozgurkuru" rssowl:id="64999" />
+        <outline text="Özgür Murat Homurlu" xmlUrl="http://ozgurmurat.blogspot.com/feeds/posts/default" rssowl:id="64934" />
+        <outline text="Özgür Yazılım A.Ş." xmlUrl="http://ozguryazilim.com.tr/feed" rssowl:id="107388" />
+        <outline text="Özgür Yazılım Sendikası" xmlUrl="http://ozguryazilimsendikasi.org/?feed=rss2" rssowl:id="115" />
+        <outline text="özgürlük için" xmlUrl="http://www.ozgurlukicin.com/rss/haber" rssowl:id="104" />
+        <outline text="Özgürlük için... - Anasayfa" xmlUrl="http://www.ozgurlukicin.com/rss" rssowl:id="110440" />
+        <outline text="Özgürlük için... - Haberler" xmlUrl="http://www.ozgurlukicin.com/rss/haber" rssowl:id="41548" />
+        <outline text="Özgürlük için... - Oyunlar" xmlUrl="http://www.ozgurlukicin.com/rss/oyun" rssowl:id="105" />
+        <outline text="Özgürlük için... - Paketler" xmlUrl="http://www.ozgurlukicin.com/rss/paket" rssowl:id="106" />
+        <outline text="Özgürlükİçin Gezegeni" xmlUrl="http://www.ozgurlukicin.com/rss/gezegen" rssowl:id="41403" />
+        <outline text="Ümit Yaşar" xmlUrl="http://www.teknozat.com" rssowl:id="111032" />
+        <outline text="Ümran Kamar" xmlUrl="http://handlet.blogspot.com/" rssowl:id="111033" />
+        <outline text="Index of /" xmlUrl="http://yildirim.isadamlari.org" rssowl:id="108534" />
+        <outline text="Indiana Jones' Diary" xmlUrl="http://6kere9.com/blag/feed/rss" rssowl:id="69824" />
+        <outline text="Şenlik Twitter Haberleri" xmlUrl="http://tuxweet.linux.org.tr/rss/username:ozguryazilimgunleri" rssowl:id="64759" />
+        <outline text="Şenlik Twitter Haberleri" xmlUrl="http://twitter.com/senlik2009" rssowl:id="111035" />
+        <outline text="/home/ras0ir" xmlUrl="http://eventualis.org" rssowl:id="128646" />
+        <outline text="Cihan Okyay" xmlUrl="http://cihanokyay.com/?feed=rss2" rssowl:id="128648" />
+        <outline text="Bilişim Platformu » Linux" xmlUrl="http://www.bilisimplatformu.com/kategori/linux/feed" rssowl:id="138091" />
+        <outline text="Linux Türkiye Gezegeni" xmlUrl="http://gezegen.linux.net.tr/feed.php?type=rss" rssowl:id="175378" />
+        <outline text="Bilişim Platformu - Özgür Dağıtımlar" xmlUrl="http://www.bilisimplatformu.com/forum/syndication.php?fid=27" rssowl:id="176019" />
+        <outline text="Rambo'nun Mekanı" xmlUrl="http://tulgalin.blogspot.com/feeds/posts/default" rssowl:id="184956" />
+        <outline text="Linux ve BSD" xmlUrl="http://linuxbsd.net.tc" rssowl:id="184969" />
+        <outline text="elektronanoarastirmagrubu" xmlUrl="http://elektronanoarastirmagrubu.wordpress.com/feed" rssowl:id="187360" />
+        <outline text="Seminer Çalışmaları .:. Linux Kullanıcıları Derneği" xmlUrl="http://seminer.linux.org.tr/feed" rssowl:id="190806" />
+        <outline text="Denemeci" xmlUrl="http://denemeciyim.wordpress.com/feed" rssowl:id="193307" />
+      </outline>
+      <outline text="İngilizce Linux Günlük Bülteni" rssowl:isSet="false" rssowl:id="75851">
+        <outline text="Techrights » News Roundup" xmlUrl="http://techrights.org/category/news-roundup/feed" rssowl:id="63469" />
+      </outline>
+      <outline text="İngilizce Linux Ön Havuz" rssowl:isSet="false" rssowl:id="77477">
+        <outline text="David REVOY - French freelance digital artist" xmlUrl="http://www.davidrevoy.com/blog.php/feed.php?atom" rssowl:id="103313" />
+        <outline text="linuxdunyam" xmlUrl="http://linuxdunyam.blogspot.com/feeds/posts/default" rssowl:id="194061" />
+        <outline text="Design/Apps - GNOME Live!" xmlUrl="https://live.gnome.org/Design/Apps" rssowl:id="194752" />
+      </outline>
+      <outline text="İngilizce Bol Akış Az İçerik " rssowl:isSet="false" rssowl:id="91769">
+        <outline text="Librenix.com" xmlUrl="http://librenix.com/rss" rssowl:id="56012" />
+        <outline text="Linux Todays" xmlUrl="http://www.linuxtoday.com/biglt.rss" rssowl:id="43125" />
+        <outline text="Linux-News » Linux news" xmlUrl="http://feeds.feedburner.com/linux-news/feeds" rssowl:id="44101" />
+        <outline text="LinuxTechCrunch " xmlUrl="http://linux-software-news-tutorials.blogspot.com/feeds/posts/default" rssowl:id="36592" />
+        <outline text="LXer Linux News" xmlUrl="http://lxer.com/module/newswire/headlines.rss" rssowl:id="43181" />
+        <outline text="Muktware Daily Newsletter" xmlUrl="http://feeds.feedburner.com/muktware/feeds" rssowl:id="80202" />
+        <outline text="Planet GNOME" xmlUrl="http://planet.gnome.org/rss20.xml" rssowl:id="64338" />
+        <outline text="Planet KDE" xmlUrl="http://planetkde.org/rss20.xml" rssowl:id="71149" />
+        <outline text="Planet Ubuntu" xmlUrl="http://planet.ubuntu.com/rss20.xml" rssowl:id="71198" />
+        <outline text="Planet Ubuntu California" xmlUrl="http://planet.ubuntu-california.org/atom.xml" rssowl:id="71306" />
+        <outline text="Planet Ubuntu Women" xmlUrl="http://planet.ubuntu-women.org/rss20.xml" rssowl:id="82394" />
+        <outline text="Planet ubuntu-uk" xmlUrl="http://planet.ubuntu-uk.org/atom.xml" rssowl:id="71257" />
+        <outline text="The H Open Source" xmlUrl="http://rss.feedsportal.com/c/32569/f/491735/index.rss" rssowl:id="125" />
+        <outline text="The VAR Guy" xmlUrl="http://feeds.feedburner.com/TheVarGuy" rssowl:id="87745" />
+        <outline text="Topix.com Linux" xmlUrl="http://www.topix.com/rss/tech/linux" rssowl:id="43276" />
+        <outline text="Ubuntu News" xmlUrl="http://www.topix.com/rss/tech/ubuntu" rssowl:id="43248" />
+        <outline text="UbuntuHQ" xmlUrl="http://www.ubuntuhq.com/uhqfeed" rssowl:id="162068" />
+      </outline>
+      <outline text="wordpress tag" rssowl:isSet="false" rssowl:id="95362">
+        <outline text="Wordpress En Tag Linux" xmlUrl="http://en.wordpress.com/tag/linux/feed/" rssowl:id="61716" />
+        <outline text="Wordpress En Tag Ubuntu" xmlUrl="http://en.wordpress.com/tag/ubuntu/feed/" rssowl:id="61787" />
+      </outline>
+    </outline>
+  </body>
+</opml>
+

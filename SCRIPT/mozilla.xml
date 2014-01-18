@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<ShortName>linux haber</ShortName>
+<Description>lunix haber arama motoru</Description>
+<Tags>linuxhaber</Tags>
+<Contact>yakushabb@gmail.com</Contact>
+<Url type="text/html" 
+template="http://www.linuxhaber.com/index.php?search={searchTerms}"/>
+<LongName>Linux Haber arama motoru</LongName>
+<Query role="example" searchTerms="cat" />
+<Developer>Sabri Unal</Developer>
+<Attribution>
+Open Source GPL 2 Lisance
+</Attribution>
+<SyndicationRight>open</SyndicationRight>
+<AdultContent>false</AdultContent>
+<Language>TR-tr</Language>
+<OutputEncoding>UTF-8</OutputEncoding>
+<InputEncoding>UTF-8</InputEncoding>
+<AdultContent>false</AdultContent>
+</OpenSearchDescription>
